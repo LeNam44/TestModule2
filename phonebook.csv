@@ -1,0 +1,3 @@
+PhoneBook {phoneNumber='0989787032'| group='Family'| name='Tuan Anh'| gender='Male'| emailAddress='tuananh123@gmail.com'}
+PhoneBook {phoneNumber='0385668796'| group='Work'| name='Huu Nhan'| gender='Male'| emailAddress='nhannguyen421@gmail.com'}
+PhoneBook {phoneNumber='0123546792'| group='Friends'| name='Quang Huy'| gender='Male'| emailAddress='vuquanghuy4214@gmail.com'}
